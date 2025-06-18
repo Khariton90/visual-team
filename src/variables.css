@@ -1,0 +1,30 @@
+:root {
+	--color-primary: #373042;
+	--color-secondary: #7557ff;
+	--color-white: #ffffff;
+	--color-grey: #9f9f9f;
+	--transition: 0.1s;
+	--swiper-navigation-size: 44px;
+	--swiper-navigation-top-offset: 50%;
+	--swiper-navigation-sides-offset: 10px;
+	--swiper-pagination-color: #7557ff;
+	--swiper-pagination-bullet-inactive-color: #7557ff;
+}
+
+@font-face {
+	font-family: 'CoFoSans';
+	src: url('../fonts/CoFoSans-Regular.woff2') format('woff2');
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'CoFoSans';
+	src: url('../fonts/CoFoSans-Medium.woff2') format('woff2');
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: 'MabryPro';
+	src: url('../fonts/MabryPro-Regular.woff2') format('woff2');
+	font-weight: 400;
+}
